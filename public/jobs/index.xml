@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jobs on mastodilu</title>
+    <link>/jobs/</link>
+    <description>Recent content in Jobs on mastodilu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/jobs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Software Engineering Specialist</title>
+      <link>/jobs/05-custom-software-engineering-specialst/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/jobs/05-custom-software-engineering-specialst/</guid>
+      <description>@ Accenture Spa
+This is my current job.
+#FIXME</description>
+    </item>
+    <item>
+      <title>Application Development Senior Analyst</title>
+      <link>/jobs/04-application-development-senior-analyst/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/jobs/04-application-development-senior-analyst/</guid>
+      <description>@ Accenture Spa
+Developed robust and scalable microservices released on GKE through a DevOps pipeline, where I participated in the coding of the applications, the creation of Helm charts, and entirely implemented the infrastructure side, including the logging and monitoring projects, following Google&amp;rsquo;s recommended best practices. Followed the phases of design, requirements gathering, development and maintenance of cloud infrastructures, paying attention on security, permissions and resource segregation, and constancly interacting with the client.</description>
+    </item>
+    <item>
+      <title>Software Developer</title>
+      <link>/jobs/03-go-ai-developer/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/jobs/03-go-ai-developer/</guid>
+      <description>@ Beta80 Spa
+Implemented a flow to handle alarms and critical events for Unicredit S.p.A. using Apache Nifi and its expression language. Alarms are gathered by a JMS queue, enriched with metadata and forwarded to a Fastweb Host in a CSV and to a Unicredit syslog server. The entire flow counts more than one hunded processors, is replicated on three nodes using zookeeper embedded and is capable of handling several thousands of alarms each minute having minimum impact on the nodes.</description>
+    </item>
+    <item>
+      <title>Java Developer</title>
+      <link>/jobs/02-java-developer/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/jobs/02-java-developer/</guid>
+      <description>@ Alpenite Spa
+Enthusiast java teacher at Alpenite&amp;rsquo;s Digital Academy, where I taught the basics of Java O.O., including inheritance, interfaces, polymorphism, abstract classes and generic types. Written a script in Java that generates static sitemaps by recursively exploring the subtrees of nodes of websites&amp;rsquo; structures in Adobe Experience Manager. </description>
+    </item>
+    <item>
+      <title>Tech internship</title>
+      <link>/jobs/01-internship/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/jobs/01-internship/</guid>
+      <description>@ Beta80 Spa
+Built a system to thack the history of raw materials from producer to customer, composed of: a responsive SPA (VueJS and Vuetify) a mobile app (Flutter) Ganache app as the ethereum blockchain for the transparent storage of information an API server (NodeJS) This project was discussed in my Bachelor of Science thesis.</description>
+    </item>
+  </channel>
+</rss>
